@@ -1,5 +1,5 @@
-This project is basically a responsive website where one can rent luxurious cars. 
-You can look for your favourite cars and reserve it.
+# A responsive website where one can rent luxurious cars. 
+You can look for your favourite cars according to size, model, color and add it to your favorites and then reserve it for renting.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
